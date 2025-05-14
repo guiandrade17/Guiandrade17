@@ -24,11 +24,8 @@
 
 ---
 
-### Botafogo campeão da Libertadores 2024  
-<p align="center">
-  <img src="./botafogo-campeao-liberta.jpg" width="500"/>
-</p>
-**A Glória Eterna é alvinegra!**
+## Botafogo Campeão da Libertadores 2024
+blob:https://web.whatsapp.com/d12b87e4-a0d8-4417-aafe-67b033db75ab
 
 ---
 
