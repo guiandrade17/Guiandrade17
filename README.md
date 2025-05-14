@@ -1,16 +1,12 @@
-## Hi there 👋
+# guiandrade
+## Olá! Sou o Guilherme 👋  
+• 🎓 Estou no primeiro semestre da faculdade.  
+• 📚 Aprendendo: Banco de Dados, C# (Aplicação Console e API Web).
 
-<!--
-**guiandrade17/Guiandrade17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meus Contatos
+[![Instagram](https://img.shields.io/badge/Instagram-@guilhermebritoa-FF69B4?style=for-the-badge&logo=instagram)](https://instagram.com/guilhermebritoa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Brito%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/guilherme-brito-andrade-090b81348)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Estatísticas do GitHub
+![guiandrade17 GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiandrade17&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guiandrade17&layout=compact&theme=radical)
