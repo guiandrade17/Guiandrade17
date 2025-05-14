@@ -25,9 +25,7 @@
 ---
 
 ## Botafogo Campeão da Libertadores 2024
-<p align="center">
-  <img src="botafogo.jpg" width="500" alt="Botafogo Campeão da Libertadores 2024">
-</p>
+
 
 
 ---
