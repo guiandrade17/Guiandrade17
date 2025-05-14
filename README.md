@@ -9,13 +9,27 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ### Meus Contatos  
 [![Instagram](https://img.shields.io/badge/Instagram-@guilhermebritoa-FF69B4?style=for-the-badge&logo=instagram)](https://instagram.com/guilhermebritoa)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Brito%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/guilherme-brito-andrade-090b8148)  
 [![Email](https://img.shields.io/badge/E--mail-guilhermebritoandrade17@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebritoandrade17@gmail.com)
 
+---
+
 ### Estatísticas do GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiandrade17&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiandrade17&layout=compact&theme=tokyonight)
-  
-![Botafogo Campeão](https://raw.githubusercontent.com/guiandrade17/guiandrade17/main/botafogo-campeao-liberta.jpg)
+
+---
+
+### Botafogo campeão da Libertadores 2024  
+<p align="center">
+  <img src="./botafogo-campeao-liberta.jpg" width="500"/>
+</p>
+**A Glória Eterna é alvinegra!**
+
+---
+
+
