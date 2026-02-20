@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5F9CFF&height=180&section=header&text=Guilherme%20Andrade&fontSize=35&fontColor=fff&animation=fadeIn"/>
 
-# 💻 Guilherme Andrade
+# 💻 Guilherme Brito Andrade
 
 <p align="center">
 
