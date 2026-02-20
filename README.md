@@ -1,29 +1,41 @@
-# 👋 Olá, eu sou o Guilherme Brito Andrade  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5F9CFF&height=180&section=header&text=Guilherme%20Andrade&fontSize=35&fontColor=fff&animation=fadeIn"/>
 
-🎓 Estudante de Engenharia de Software – 3º Semestre  
+# 💻 Guilherme Andrade
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5F9CFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Focado+em+Back-End;Sempre+evoluindo..." />
+
+</p>
+
+---
+
+## 🎓 Sobre mim
+
+🎓 Engenharia de Software – 3º Semestre  
 💻 Focado em Desenvolvimento de Software  
-🚀 Sempre aprendendo novas tecnologias e evoluindo como desenvolvedor  
+🚀 Buscando minha primeira oportunidade como Desenvolvedor  
 
 ---
 
 ## 📚 Atualmente estudando
 
-📖 Disciplinas do semestre:
+### 📖 Disciplinas
 
-- 📊 Análise e Projeto de Sistemas  
-- 🌐 Redes de Computadores  
-- ⚙️ Metodologias de Desenvolvimento de Sistemas  
-- 💻 Desenvolvimento Web  
-- 🧮 Cálculo para Computação  
+- Análise e Projeto de Sistemas  
+- Redes de Computadores  
+- Metodologias de Desenvolvimento de Sistemas  
+- Desenvolvimento Web  
+- Cálculo para Computação  
 
-📖 Tecnologias:
+### ⚙️ Tecnologias
 
-- ☕ Java  
-- 💜 C# (.NET, Console e API Web)  
-- 🐍 Python  
-- 🗄️ Banco de Dados e SQL  
-- 🎨 HTML, CSS e JavaScript  
-- 🔧 Git e GitHub  
+- C#
+- Java
+- Python
+- SQL
+- HTML, CSS e JavaScript
+- Git e GitHub
 
 ---
 
@@ -31,39 +43,59 @@
 
 <p>
 
-<img align="left" alt="C#" title="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 
-<img align="left" alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
-<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 </p>
 
-<br/>
-<br/>
+---
+
+## 🚀 Projetos em destaque
+
+🔹 Em breve adicionando meus projetos...
+
+Exemplos que você pode colocar depois:
+
+- Sistema em C#
+- API Web
+- Sistema com Banco de Dados
+- Site com HTML, CSS e JS
 
 ---
 
 ## 📫 Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-@guilhermebritoa-FF69B4?style=for-the-badge&logo=instagram)](https://instagram.com/guilhermebritoa)  
+<p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Brito%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/)  
+<a href="https://instagram.com/guilhermebritoa">
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/E--mail-guilhermebritoandrade17@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebritoandrade17@gmail.com)
+<a href="https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:guilhermebritoandrade17@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ Em busca da minha primeira oportunidade como Desenvolvedor de Software
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5F9CFF,100:6C63FF&height=120&section=footer"/>
