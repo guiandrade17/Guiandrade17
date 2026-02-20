@@ -67,44 +67,36 @@
 
 ## 🚀 Projetos em destaque
 
-🔹 Em breve adicionando meus projetos...
-
-Sugestões de projetos para colocar aqui:
-
-- Sistema em C#
-- API Web
-- Sistema com Banco de Dados
-- Site com HTML, CSS e JavaScript
+🔹 Sistema de Locadora de Carros (Banco de Dados)  
+🔹 Em breve: API em C#  
+🔹 Em breve: Site Full-Stack  
 
 ---
 
 ## 📫 Contato
 
-<p>
+<p align="center">
 
-<a href="https://instagram.com/guilhermebritoa">
+<a href="https://instagram.com/guilhermebritoa" target="_blank">
+
 <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/">
+<a href="https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/" target="_blank">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:guilhermebritoandrade17@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5F9CFF,100:6C63FF&height=120&section=footer"/>
-<a href="mailto:guilhermebritoandrade17@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5F9CFF,100:6C63FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5F9CFF,100:6C63FF&height=120&section=footer"/>section=footer"/>
