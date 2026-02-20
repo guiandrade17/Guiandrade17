@@ -20,21 +20,98 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+
+<img 
+align="left" 
+alt="C#" 
+title="C#" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="Java" 
+title="Java" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="MySQL" 
+title="MySQL" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="HTML" 
+title="HTML" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="CSS" 
+title="CSS" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="JavaScript" 
+title="JavaScript" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="Git" 
+title="Git" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="GitHub" 
+title="GitHub" 
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+</p>
+
+<br/>
+<br/>
 
 ---
 
 ## 📫 Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-@guilhermebritoa-FF69B4?style=for-the-badge&logo=instagram)](https://instagram.com/guilhermebritoa)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Brito%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/)  
+
+[![Email](https://img.shields.io/badge/E--mail-guilhermebritoandrade17@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebritoandrade17@gmail.com)
+
+---
+
+⭐ Em busca da minha primeira oportunidade como Desenvolvedor de Software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Brito%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/)  
 
