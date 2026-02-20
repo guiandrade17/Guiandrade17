@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Andrade  
+# 👋 Olá, eu sou o Guilherme Brito Andrade  
 
 🎓 Estudante de Engenharia de Software – 3º Semestre  
 💻 Focado em Desenvolvimento de Software  
