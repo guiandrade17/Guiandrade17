@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5F9CFF&height=180&section=top&text=Guilherme%20Brito%20Andrade&fontSize=35&fontColor=fff&animation=fadeIn"/>
 
-# 💻 Guilherme Brito Andrade
-
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5F9CFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Estudante+de+Engenharia+de+Software;Focado+em+Desenvolvimento+de+Software;Sempre+evoluindo..." />
